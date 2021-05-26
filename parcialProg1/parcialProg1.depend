@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1622037873 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"menus.h"
+	"cliente.h"
+	"informes.h"
+
+1622038248 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"validaciones.h"
+	"menus.h"
+
+1622037851 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\moto.h
+	"Tipo.h"
+	"color.h"
+	"cliente.h"
+
+1621778046 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\color.h
+
+1621862576 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1621864324 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipo.h"
+
+1621731305 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\tipo.h
+
+1622034164 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621861172 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\servicio.h
+
+1621987619 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"validaciones.h"
+
+1621888640 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"moto.h"
+	"cliente.h"
+
+1621425794 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\fecha.h
+
+1622038284 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1622038218 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1622030823 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\menus.c
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1621893261 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\menus.h
+
+1622037790 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622037635 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\cliente.h
+
+1622038299 source:c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\informes.c
+	"informes.h"
+	"menus.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1622032352 c:\users\quique\desktop\ejercicioscodeblocks\parcialprog1\informes.h
+	"fecha.h"
+	"servicio.h"
+	"moto.h"
+	"cliente.h"
+	"trabajo.h"
+
